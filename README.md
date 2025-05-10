@@ -49,6 +49,3 @@ Há evidências estatísticas fortes de que existe **diferença significativa en
 
 ```bash
 pip install -r requirements.txt
-
-
-Criado por Gustavo Correard.
