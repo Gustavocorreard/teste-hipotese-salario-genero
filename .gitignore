@@ -1,0 +1,14 @@
+# Ignore arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Ignore arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignore arquivos do Colab
+*.json
+*.pyc
+
+# Ignore ambientes virtuais
+venv/
+.env/
